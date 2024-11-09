@@ -13,7 +13,6 @@ Welcome to my GitHub profile! I'm a Computer Science student at Northeastern Uni
 ## 📫 Get in Touch
 - **Website**: [jp-norton.com](https://www.jp-norton.com/)
 - **LinkedIn**: [linkedin.com/in/jonathon-norton](https://www.linkedin.com/in/jonathon-norton/)
-- **GitHub**: [github.com/jpnortonwastaken](https://github.com/jpnortonwastaken)
 - **Email**: [norton.jo@northeastern.edu](mailto:norton.jo@northeastern.edu)
 
 ---
